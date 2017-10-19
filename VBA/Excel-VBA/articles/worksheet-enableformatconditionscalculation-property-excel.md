@@ -1,4 +1,4 @@
----
+n---
 title: Worksheet.EnableFormatConditionsCalculation Property (Excel)
 keywords: vbaxl10.chm175161
 f1_keywords:
@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnableFormatConditionsCalculation Property (Excel)
 
-Returms or sets if conditional formats will will occur automatically as needed. Read/write  **Boolean** .
+Returns or sets if conditional formats will will occur automatically as needed. Read/write  **Boolean** .
 
 
 ## Syntax
